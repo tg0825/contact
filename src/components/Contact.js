@@ -4,6 +4,7 @@ import ContactInfo from './ContactInfo';
 import ContactDetails from './ContactDetails';
 import ContactCreate from './ContactCreate';
 
+
 export default class Contact extends React.Component {
     constructor(props) {
         super(props);
